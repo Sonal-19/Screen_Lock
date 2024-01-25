@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # user_screenlock
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Screen_Lock
+>>>>>>> 67cae0ef1c69dc1e309913c972516a1bd5910054
